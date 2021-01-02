@@ -1,3 +1,5 @@
+Expense tracker is the app wahich helps you to calculate your expenses and keep a track of all your incomes and expenditure showing the remainig balance you have, isn't it a neede app ?
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
