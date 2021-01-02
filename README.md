@@ -1,4 +1,4 @@
-Expense tracker is the app wahich helps you to calculate your expenses and keep a track of all your incomes and expenditure showing the remainig balance you have, isn't it a neede app ?
+Expense tracker is the app wahich helps you to calculate your expenses and keep a track of all your incomes and expenditure allowing you to create and delete records,showing the remainig balance you have, isn't it a neede app ?
 link https://happy-tesla-de6da2.netlify.app/
 # Getting Started with Create React App
 
